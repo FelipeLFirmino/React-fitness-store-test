@@ -1,0 +1,75 @@
+[
+    {
+      "title": "Black shirt",
+      "description": "Beautiful black shirt that fits perferctly on your body",
+      "photo": "/assets/clothes/black_shirt.jpg",
+      "size": "Sizes : S|M|L",
+      "price": 73.0,
+      "id": 1,
+      "category": {
+        "id": 1,
+        "label": "Tops"
+      }
+    },
+    {
+      "title": "White shirt",
+      "description": "Beautiful white shirt that fits perferctly on your body",
+      "photo": "/assets/clothes/white_shirt.png",
+      "size": "Sizes : S|M|L",
+      "price": 54.0,
+      "id": 2,
+      "category": {
+        "id": 1,
+        "label": "Tops"
+      }
+    },
+    {
+      "title": "Blue shirt",
+      "description": "Beautiful blue shirt that fits perferctly on your body",
+      "photo": "/assets/clothes/blue_shirt.jpg",
+      "size": "Sizes : S|M|L",
+      "price": 58.0,
+      "id": 3,
+      "category": {
+        "id": 1,
+        "label": "Tops"
+      }
+    },
+    {
+      "title": "Red shorts",
+      "description": "Beautifull red sport shorts that fits perfectyl on your body",
+      "photo": "/assets/clothes/red_shorts.jpg",
+      "size": "Sizes : S|M|L",
+      "price": 42.0,
+      "id": 4,
+      "category": {
+        "id": 2,
+        "label": "Bottoms"
+      }
+    },
+    {
+      "title": "Black shorts",
+      "description": "Beautifull black sport shorts that fits perfectyl on your body",
+      "photo": "/assets/clothes/black_shorts.jpg",
+      "size": "Sizes : S|M|L",
+      "price": 86.0,
+      "id": 5,
+      "category": {
+        "id": 2,
+        "label": "Bottoms"
+      }
+    },
+    {
+      "title": "White shorts",
+      "description": "Beautifull white sport shorts that fits perfectyl on your body",
+      "photo": "/assets/clothes/white_shorts.jpg",
+      "size": "Sizes : S|M|L",
+      "price": 123.0,
+      "id": 6,
+      "category": {
+        "id": 2,
+        "label": "Bottoms"
+      }
+    }
+  ]
+ 

@@ -1,0 +1,18 @@
+[
+{
+    "label": "Tops",
+    "id": 1 
+},
+{
+    "label": "Bottoms",
+    "id": 2 
+},
+{
+    "label": "Footwear",
+    "id": 3 
+},
+{
+    "label": "Gadgets",
+    "id": 4 
+}
+]

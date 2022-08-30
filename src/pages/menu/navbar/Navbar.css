@@ -1,0 +1,20 @@
+.header_text{
+display: block;
+flex-grow: 1;
+font-size: x-large;
+}
+.banner{
+    display: flex;
+    font-size: xxx-large;
+    align-items: flex-start;
+    margin: 0;
+    background-size: cover;
+    height: 40vh;
+    background-image: url(/src/assets/banner_img.jpg); 
+}
+
+.banner h1{
+    padding-top:7%;
+    padding-left: 5%;
+}
+
