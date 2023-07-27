@@ -1,11 +1,11 @@
 .header_text{
 display: block;
 flex-grow: 1;
-font-size: x-large;
+font-size: xx-large;
 }
 .banner{
     display: flex;
-    font-size: xxx-large;
+    font-size: xx-large;
     align-items: flex-start;
     margin: 0;
     background-size: cover;

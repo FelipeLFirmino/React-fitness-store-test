@@ -14,8 +14,10 @@ const Search = styled('div')(({ theme }) => ({
   borderRadius: theme.shape.borderRadius,
   backgroundColor: alpha(theme.palette.common.white, 0.15),
   '&:hover': {
-    backgroundColor: alpha(theme.palette.common.white, 0.25),
-  },
+    backgroundColor: alpha(theme.palette.common.white, 0.95),
+  },  	
+  color: 'black'
+  ,
   marginLeft: 0,
   width: '100%',
   [theme.breakpoints.up('sm')]: {
@@ -87,7 +89,7 @@ export default function NavBar({busca, setBusca}:navbarprops) {
       </AppBar>
         </Box>
         <div className='banner'>
-        <h1>surpass your limits with style!</h1>
+      
         </div>
     </div>
 );
